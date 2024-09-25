@@ -1,0 +1,733 @@
+[28-Aug-2018 16:50:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '*' in /home/vdsai/public_html/chitrakoot_disaster/app/views/admin/office/office.php on line 71
+[28-Aug-2018 16:52:03 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '*' in /home/vdsai/public_html/chitrakoot_disaster/app/views/admin/office/office.php on line 71
+[28-Aug-2018 16:52:28 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '*' in /home/vdsai/public_html/chitrakoot_disaster/app/views/admin/office/office.php on line 71
+[28-Aug-2018 16:52:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '*' in /home/vdsai/public_html/chitrakoot_disaster/app/views/admin/office/office.php on line 71
+[31-Aug-2018 15:22:24 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Signup.php on line 14
+[01-Sep-2018 13:52:51 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 39
+[01-Sep-2018 13:55:21 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::num_row() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 67
+[01-Sep-2018 15:13:18 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130968 bytes) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 53
+[01-Sep-2018 15:23:36 Asia/Kolkata] PHP Fatal error:  Call to undefined method IncidenceModel::getIncidenceWithMoreDetails() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 54
+[05-Sep-2018 17:35:38 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/Calling.php on line 61
+[05-Sep-2018 17:36:36 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/Calling.php on line 63
+[05-Sep-2018 17:41:44 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/Calling.php on line 284
+[05-Sep-2018 17:42:09 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:42:11 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:42:22 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:42:23 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:42:23 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:42:23 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:42:23 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:42:37 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:42:39 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:42:40 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:42:42 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:42:42 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:42:42 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:42:42 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:42:43 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:42:43 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:42:43 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:42:43 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:42:43 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:42:43 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:43:08 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:43:11 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:44:49 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:45:42 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:45:44 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:45:45 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:45:45 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:45:45 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:45:46 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:45:46 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:45:46 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:45:47 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:48:03 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:48:05 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:48:05 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:48:05 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:48:06 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:48:06 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:48:06 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:48:06 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:48:06 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:48:06 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:48:07 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:48:26 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:48:27 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:48:27 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:48:27 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:48:28 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:48:28 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:48:28 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:48:28 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:48:28 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:48:28 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:48:29 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:48:29 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:48:29 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:48:29 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 17:48:30 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/sys/libraries/Table.php on line 256
+[05-Sep-2018 18:15:02 Asia/Kolkata] PHP Fatal error:  Class 'Client' not found in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/Calling.php on line 46
+[06-Sep-2018 09:13:28 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 346
+[06-Sep-2018 12:30:43 Asia/Kolkata] PHP Fatal error:  Call to undefined function rcasecmp() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 188
+[06-Sep-2018 12:34:47 Asia/Kolkata] PHP Fatal error:  Call to undefined method IncidenceModel::getRelatedOfficeAndOfficerByInde() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 210
+[06-Sep-2018 12:42:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/Calling.php on line 84
+[06-Sep-2018 12:42:13 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/Calling.php on line 84
+[06-Sep-2018 12:43:45 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ''incidence_id'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/Calling.php on line 91
+[06-Sep-2018 13:24:43 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/Calling.php on line 97
+[06-Sep-2018 13:47:07 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/Calling.php on line 118
+[11-Sep-2018 12:58:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/Map.php on line 22
+[12-Sep-2018 15:19:20 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?>' in /home/vdsai/public_html/chitrakoot_disaster/app/views/admin/map/map.php on line 8
+[12-Sep-2018 15:19:38 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?>' in /home/vdsai/public_html/chitrakoot_disaster/app/views/admin/map/map.php on line 8
+[12-Sep-2018 15:24:59 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?>' in /home/vdsai/public_html/chitrakoot_disaster/app/views/admin/map/map.php on line 8
+[13-Sep-2018 14:04:33 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/vdsai/public_html/chitrakoot_disaster/app/views/admin/office/office.php on line 152
+[13-Sep-2018 14:04:41 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/vdsai/public_html/chitrakoot_disaster/app/views/admin/office/office.php on line 152
+[14-Sep-2018 16:56:24 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/views/admin/incidence/addIncidence/addIncidence.php on line 113
+[14-Sep-2018 18:08:10 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<=' (T_IS_SMALLER_OR_EQUAL) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 440
+[18-Sep-2018 15:42:56 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/vdsai/public_html/chitrakoot_disaster/app/helpers/my_helper.php on line 157
+[18-Sep-2018 15:45:20 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/vdsai/public_html/chitrakoot_disaster/app/helpers/my_helper.php on line 157
+[22-Sep-2018 16:58:09 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:58:11 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:58:13 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:58:14 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:58:14 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:58:20 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:58:38 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:58:38 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:58:39 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:58:39 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:58:39 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:58:39 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:58:39 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:58:40 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:58:40 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:58:40 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:58:40 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:58:40 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:58:41 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:58:43 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:58:44 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:58:44 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:58:44 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:58:44 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:58:45 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:58:45 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:58:45 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:58:46 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:58:46 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:58:46 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:58:46 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:58:46 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:58:47 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:58:47 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:58:47 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:58:47 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:58:57 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:58:58 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:58:58 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:58:58 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:58:58 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:58:59 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:58:59 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:58:59 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:58:59 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:59:19 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:59:20 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:59:20 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:59:20 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:59:20 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:59:20 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 16:59:21 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:01:25 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:01:26 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:01:26 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:01:26 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:01:26 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:01:26 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:01:27 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:01:27 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:01:28 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:01:28 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:01:28 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:01:28 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:01:28 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:01:29 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:01:29 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:01:29 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:01:29 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:01:30 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:01:30 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:01:30 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:01:31 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:02:02 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:03:05 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$IncidenceData' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 34
+[22-Sep-2018 17:03:06 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$IncidenceData' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 34
+[22-Sep-2018 17:03:08 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$IncidenceData' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 34
+[22-Sep-2018 17:03:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$IncidenceData' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 34
+[22-Sep-2018 17:03:13 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$IncidenceData' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 34
+[22-Sep-2018 17:03:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$IncidenceData' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 34
+[22-Sep-2018 17:03:18 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$IncidenceData' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 34
+[22-Sep-2018 17:03:21 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$IncidenceData' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 34
+[22-Sep-2018 17:03:23 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$IncidenceData' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 34
+[22-Sep-2018 17:03:26 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$IncidenceData' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 34
+[22-Sep-2018 17:03:28 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$IncidenceData' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 34
+[22-Sep-2018 17:03:31 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$IncidenceData' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 34
+[22-Sep-2018 17:03:33 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$IncidenceData' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 34
+[22-Sep-2018 17:03:36 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$IncidenceData' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 34
+[22-Sep-2018 17:03:38 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$IncidenceData' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 34
+[22-Sep-2018 17:03:41 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$IncidenceData' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 34
+[22-Sep-2018 17:03:43 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$IncidenceData' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 34
+[22-Sep-2018 17:03:46 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$IncidenceData' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 34
+[22-Sep-2018 17:03:48 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$IncidenceData' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 34
+[22-Sep-2018 17:03:51 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$IncidenceData' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 34
+[22-Sep-2018 17:04:05 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:04:07 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:04:07 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:04:07 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:04:09 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:04:09 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:04:09 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:04:09 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:04:09 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:04:10 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:04:10 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:04:10 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:04:10 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:04:10 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:04:10 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:04:11 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:04:11 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:04:11 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:04:11 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:04:11 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:04:12 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:05:39 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:05:40 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:05:40 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:05:41 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:05:41 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:05:41 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:05:41 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:05:42 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:05:42 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:05:42 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:05:43 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:05:43 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:05:43 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:05:44 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:05:44 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:05:44 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:05:44 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:05:45 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:05:45 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:05:45 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:05:46 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:06:32 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:06:32 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:06:33 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:06:33 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:06:33 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:06:33 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:06:34 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:06:34 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:06:34 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:06:34 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:07:03 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:07:03 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:07:04 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:07:04 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:07:43 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:07:44 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:07:44 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:07:45 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:07:48 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:07:48 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:07:48 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:07:48 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:07:49 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:07:49 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:07:56 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:07:56 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:07:56 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:07:56 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:07:56 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:07:57 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:07:57 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:07:57 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:07:58 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:07:58 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:07:58 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:07:58 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:07:58 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:07:59 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:07:59 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:07:59 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:07:59 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:07:59 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:08:00 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:09:40 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:09:41 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:09:41 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:09:41 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:09:41 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:09:42 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:09:42 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:09:42 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:09:42 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:09:43 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:09:43 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:09:43 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 17:09:43 Asia/Kolkata] PHP Fatal error:  Call to undefined function random_string() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 24
+[22-Sep-2018 19:24:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 435
+[22-Sep-2018 19:24:45 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 435
+[22-Sep-2018 19:24:50 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 435
+[22-Sep-2018 19:24:56 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 435
+[22-Sep-2018 19:24:57 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 435
+[22-Sep-2018 19:25:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 435
+[22-Sep-2018 19:25:04 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 435
+[22-Sep-2018 19:25:05 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 435
+[22-Sep-2018 19:25:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 435
+[22-Sep-2018 19:25:15 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 435
+[22-Sep-2018 19:25:21 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 435
+[22-Sep-2018 19:25:26 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 435
+[22-Sep-2018 19:25:31 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 435
+[22-Sep-2018 19:25:35 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 435
+[22-Sep-2018 19:25:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 435
+[22-Sep-2018 19:25:45 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 435
+[22-Sep-2018 19:25:50 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 435
+[22-Sep-2018 19:25:55 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 435
+[22-Sep-2018 19:26:00 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 435
+[22-Sep-2018 19:26:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 435
+[22-Sep-2018 19:26:05 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 435
+[22-Sep-2018 19:26:10 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 435
+[22-Sep-2018 19:26:15 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 435
+[22-Sep-2018 19:26:20 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 435
+[22-Sep-2018 19:26:25 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 435
+[22-Sep-2018 19:26:31 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 435
+[24-Sep-2018 14:34:04 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'table' (T_STRING) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/Cron.php on line 25
+[24-Sep-2018 14:56:33 Asia/Kolkata] PHP Fatal error:  Call to undefined function msg() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/Cron.php on line 21
+[24-Sep-2018 15:53:44 Asia/Kolkata] PHP Fatal error:  Call to undefined function msg() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/Cron.php on line 25
+[24-Sep-2018 17:55:14 Asia/Kolkata] PHP Fatal error:  Call to a member function result() on null in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/Cron.php on line 44
+[24-Sep-2018 18:53:08 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$insert' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/Cron.php on line 74
+[27-Sep-2018 15:56:26 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'json_encode' (T_STRING) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 77
+[09-Oct-2018 13:33:41 Asia/Kolkata] PHP Fatal error:  Call to a member function getIncidence() on null in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 221
+[12-Oct-2018 14:25:19 Asia/Kolkata] PHP Fatal error:  Call to a member function num_rows() on null in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 32
+[12-Oct-2018 14:25:19 Asia/Kolkata] PHP Fatal error:  Call to a member function num_rows() on null in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 32
+[24-Nov-2018 16:49:03 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/vdsai/public_html/chitrakoot_disaster/app/views/login.php on line 52
+[24-Nov-2018 18:34:29 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/vdsai/public_html/chitrakoot_disaster/app/views/admin/map/map.php on line 19
+[24-Nov-2018 18:34:51 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/vdsai/public_html/chitrakoot_disaster/app/views/admin/map/map.php on line 19
+[24-Nov-2018 18:34:53 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/vdsai/public_html/chitrakoot_disaster/app/views/admin/map/map.php on line 19
+[26-Nov-2018 12:33:38 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/vdsai/public_html/chitrakoot_disaster/app/views/admin/map/map.php on line 24
+[26-Nov-2018 12:34:31 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/vdsai/public_html/chitrakoot_disaster/app/views/admin/map/map.php on line 28
+[26-Nov-2018 13:01:56 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$selected' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/views/admin/map/map.php on line 35
+[26-Nov-2018 13:02:02 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$selected' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/views/admin/map/map.php on line 35
+[27-Nov-2018 11:20:59 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:21:02 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:21:05 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:21:08 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:21:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:21:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:21:17 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:21:20 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:21:23 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:21:26 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:21:29 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:21:32 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:21:35 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:21:38 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:21:41 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:21:44 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:21:47 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:21:50 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:21:53 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:21:56 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:21:59 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:22:02 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:22:05 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:22:08 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:22:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:22:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:22:17 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:22:20 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:22:23 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:22:26 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:22:29 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:22:32 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:22:35 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:22:38 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:22:41 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:22:44 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:22:47 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:22:50 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:22:53 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:22:56 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:22:59 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:23:02 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:23:05 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:23:08 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:23:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:23:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:23:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:23:17 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:23:20 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:23:23 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:23:26 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:23:29 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:23:32 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:23:35 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:23:38 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:23:41 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:23:44 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:23:47 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:23:50 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:23:53 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:23:56 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:23:59 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:24:02 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:24:05 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:24:08 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:24:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:24:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:24:17 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:24:20 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:24:23 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:24:26 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:24:29 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:24:32 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:24:35 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:24:38 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:24:41 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:24:44 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:24:47 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:24:48 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:24:50 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:24:53 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:24:56 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:24:59 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:25:02 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[27-Nov-2018 11:25:05 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 262
+[29-Nov-2018 17:35:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/views/admin/map/map.php on line 15
+[01-Dec-2018 13:33:03 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/vdsai/public_html/chitrakoot_disaster/app/views/admin/map/mapJs.php on line 76
+[01-Dec-2018 13:33:29 Asia/Kolkata] PHP Fatal error:  Call to a member function is_mobile() on null in /home/vdsai/public_html/chitrakoot_disaster/app/views/admin/map/mapJs.php on line 76
+[01-Dec-2018 17:52:41 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?>' in /home/vdsai/public_html/chitrakoot_disaster/app/views/login.php on line 56
+[01-Dec-2018 18:24:52 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:24:57 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:24:59 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:25:02 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:25:05 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:25:10 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:25:13 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:25:16 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:25:19 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:25:22 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:25:25 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:25:28 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:25:31 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:25:34 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:25:37 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:25:40 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:25:40 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:25:40 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:25:41 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:25:41 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:25:43 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:25:43 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:25:45 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:25:46 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:25:48 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:25:49 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:25:51 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:25:52 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:25:54 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:25:55 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:25:57 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:25:58 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:26:00 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:26:01 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:26:03 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:26:04 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:26:06 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:26:07 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:26:09 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:26:10 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:26:12 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:26:13 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:26:15 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:26:16 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:26:18 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:26:19 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:26:21 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:26:22 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:26:24 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:26:25 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:26:27 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:26:28 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:26:30 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:26:31 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:26:33 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:26:34 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:26:36 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:26:37 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:26:39 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:26:40 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:26:42 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:26:43 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:26:45 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:26:46 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:26:48 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:26:49 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:26:52 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:26:52 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:26:55 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:26:55 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:26:57 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:26:58 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:27:00 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:27:01 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:27:03 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:27:06 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:27:09 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:27:11 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:27:12 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:27:15 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:27:18 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:27:21 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:27:24 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:27:27 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:27:30 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:27:33 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:27:36 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:27:39 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:27:43 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:27:45 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:27:48 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:27:51 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:27:54 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:27:57 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:28:00 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:28:03 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:28:07 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:28:10 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:28:13 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:28:15 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:28:18 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:28:22 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:28:24 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:28:28 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:28:30 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:28:33 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:28:37 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:28:39 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:28:42 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:28:45 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:28:49 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:28:51 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:28:54 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:28:57 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:29:00 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:29:04 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:29:06 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:29:09 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:29:09 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:29:12 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:29:12 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:29:15 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:29:15 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:29:18 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:29:19 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:29:21 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:29:21 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:29:24 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:29:25 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:29:27 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:29:27 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:29:30 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:29:31 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:29:33 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:29:34 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:29:36 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:29:36 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:29:39 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:29:39 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:29:42 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:29:42 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:29:44 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:29:45 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:29:45 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:29:48 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:29:48 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:29:51 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:29:51 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:29:54 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:29:54 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:29:57 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:29:57 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:30:00 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:30:00 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:30:03 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:30:04 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:30:06 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:30:06 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:30:09 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:30:10 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:30:12 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:30:13 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:30:15 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:30:16 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:30:18 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:30:19 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:30:21 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:30:21 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:30:24 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:30:25 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:30:27 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:30:27 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:30:30 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:30:30 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:30:31 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:30:33 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:30:33 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:30:36 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:30:36 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:30:39 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:30:40 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:30:42 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:30:42 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:30:45 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:30:46 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:30:48 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:30:48 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:30:51 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[01-Dec-2018 18:30:51 Asia/Kolkata] PHP Fatal error:  Call to undefined function getOfficeType() in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 559
+[05-Dec-2018 22:51:14 Asia/Kolkata] PHP Fatal error:  Call to a member function set_rules() on null in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Ping.php on line 9
+[28-Dec-2018 17:12:09 Asia/Kolkata] PHP Fatal error:  Call to undefined method IncidenceModel::getIncidenceReport() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 133
+[28-Dec-2018 17:12:28 Asia/Kolkata] PHP Fatal error:  Call to undefined method IncidenceModel::getIncidenceReport() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Incidence.php on line 133
+[04-Jan-2019 18:29:11 Asia/Kolkata] PHP Fatal error:  Class 'Client' not found in /home/vdsai/public_html/chitrakoot_disaster/app/helpers/my_helper.php on line 207
+[04-Jan-2019 18:29:47 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/vdsai/public_html/chitrakoot_disaster/app/helpers/my_helper.php on line 204
+[04-Jan-2019 18:30:02 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/vdsai/public_html/chitrakoot_disaster/app/helpers/my_helper.php on line 204
+[04-Jan-2019 18:30:03 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/vdsai/public_html/chitrakoot_disaster/app/helpers/my_helper.php on line 204
+[04-Jan-2019 18:30:29 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/vdsai/public_html/chitrakoot_disaster/app/helpers/my_helper.php on line 204
+[04-Jan-2019 18:31:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/vdsai/public_html/chitrakoot_disaster/app/helpers/my_helper.php on line 204
+[04-Jan-2019 18:31:17 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/vdsai/public_html/chitrakoot_disaster/app/helpers/my_helper.php on line 204
+[04-Jan-2019 18:31:17 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/vdsai/public_html/chitrakoot_disaster/app/helpers/my_helper.php on line 204
+[04-Jan-2019 18:31:17 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/vdsai/public_html/chitrakoot_disaster/app/helpers/my_helper.php on line 204
+[04-Jan-2019 18:31:17 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/vdsai/public_html/chitrakoot_disaster/app/helpers/my_helper.php on line 204
+[04-Jan-2019 18:31:17 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/vdsai/public_html/chitrakoot_disaster/app/helpers/my_helper.php on line 204
+[04-Jan-2019 18:31:45 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/vdsai/public_html/chitrakoot_disaster/app/helpers/my_helper.php on line 204
+[04-Jan-2019 18:31:45 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/vdsai/public_html/chitrakoot_disaster/app/helpers/my_helper.php on line 204
+[04-Jan-2019 18:31:45 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/vdsai/public_html/chitrakoot_disaster/app/helpers/my_helper.php on line 204
+[04-Jan-2019 18:31:45 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/vdsai/public_html/chitrakoot_disaster/app/helpers/my_helper.php on line 204
+[04-Jan-2019 18:31:45 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/vdsai/public_html/chitrakoot_disaster/app/helpers/my_helper.php on line 204
+[04-Jan-2019 18:32:02 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/vdsai/public_html/chitrakoot_disaster/app/helpers/my_helper.php on line 204
+[04-Jan-2019 18:33:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/vdsai/public_html/chitrakoot_disaster/app/helpers/my_helper.php on line 204
+[04-Jan-2019 18:35:48 Asia/Kolkata] PHP Fatal error:  Call to undefined function exotelGreeting() in /home/vdsai/public_html/chitrakoot_disaster/app/views/admin/calling/home.php on line 21
+[04-Jan-2019 19:02:45 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:02:45 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:02:45 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:02:45 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:02:50 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:02:50 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:02:50 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:02:54 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:02:54 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:02:55 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:03:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:03:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:03:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:03:09 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:03:09 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:03:09 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:03:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:03:15 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:03:15 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:03:15 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:03:18 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:03:21 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:03:21 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:03:21 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:03:22 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:03:22 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:03:22 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:03:23 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:03:23 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:03:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:03:31 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:03:31 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:03:31 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:03:34 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:03:37 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:03:37 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:03:37 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:03:47 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:03:47 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:03:47 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:03:52 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:03:52 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:03:52 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:04:05 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:04:05 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:04:05 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:04:09 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:04:09 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:04:09 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:04:17 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:04:20 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:04:24 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:04:24 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:04:24 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:04:24 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:04:26 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:04:28 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:04:28 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:04:28 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:04:29 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:04:32 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:04:35 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:04:38 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:04:41 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:04:41 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:04:41 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:04:41 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:04:44 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:04:47 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:04:50 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:04:50 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:04:50 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:04:50 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:04:53 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:08:51 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:08:51 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:08:51 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:09:00 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:09:00 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:09:00 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:09:05 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:09:06 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:09:06 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:09:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:09:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:09:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:09:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:09:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:09:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:09:19 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:09:19 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:09:19 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:09:25 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:09:25 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:09:25 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[04-Jan-2019 19:09:35 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vdsai/public_html/chitrakoot_disaster/app/models/IncidenceModel.php on line 70
+[05-Jan-2019 18:26:20 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/Cron.php on line 110
+[05-Jan-2019 18:27:07 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/Cron.php on line 111
+[05-Jan-2019 18:29:55 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/Cron.php on line 112
+[05-Jan-2019 18:30:09 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/Cron.php on line 112
+[05-Jan-2019 18:34:29 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$sms_id' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/Cron.php on line 112
+[22-Jan-2019 15:31:20 Asia/Kolkata] PHP Fatal error:  Call to a member function set_rules() on null in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/api/Ping.php on line 9
+[20-Feb-2019 12:04:03 Asia/Kolkata] PHP Fatal error:  Call to a member function call() on null in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/Cron.php on line 21
+[20-Feb-2019 13:29:54 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/Cron.php on line 25
+[20-Feb-2019 13:30:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/Cron.php on line 25
+[20-Feb-2019 13:30:02 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/Cron.php on line 25
+[20-Feb-2019 13:30:02 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/Cron.php on line 25
+[20-Feb-2019 16:39:02 Asia/Kolkata] PHP Fatal error:  Call to undefined method Exotel::call_flow() in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/Cron.php on line 22
+[20-Feb-2019 16:42:55 Asia/Kolkata] PHP Fatal error:  Class 'Client' not found in /home/vdsai/public_html/chitrakoot_disaster/app/controllers/Cron.php on line 23
