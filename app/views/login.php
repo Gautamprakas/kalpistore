@@ -37,10 +37,10 @@
                 box-shadow: 0px 2.5px 30px black;
              }
              .logo{
-                text-shadow: 0px 2.5px 30px black;
+/*                text-shadow: 0px 2.5px 30px black;*/
                 text-transform: uppercase;
-                letter-spacing: 1px;
-                background-color: indigo;
+                letter-spacing: 4px;
+                background-color: red;
              }
              .login-page .login-box .logo small {
                 margin-top: 10px;
@@ -56,13 +56,16 @@
                 background-repeat: no-repeat; 
             }
             @media (max-width: 767px) {
-    .login-page {
-        background: url("<?php echo base_url('assets/background_mobile.jpg'); ?>") no-repeat center center;
-        background-size: cover;
-        /* Ensure it covers the full viewport height in mobile view as well */
-        height: 100vh; 
-    }
-}
+                .login-page {
+                    background: url("<?php echo base_url('assets/background_mobile.jpg'); ?>") no-repeat center center;
+                    background-size: cover;
+                    /* Ensure it covers the full viewport height in mobile view as well */
+                    height: 100vh; 
+                }
+            }
+            .msg{
+                background: pink;
+            }
            /* @media (max-width: 600px) {
                 .login-page {
                     background: url("<?php echo base_url('assets/background_mobile3.jpg'); ?>");
@@ -91,7 +94,7 @@
                 <form  action="<?php echo base_url("Login/auth"); ?>" method="POST" autocomplete="off" target="_self">
                     
                     
-                    <div class="msg">Software Login Area</div>
+                    <div class="msg"><span style='font-size:30px;'>&#127829;</span>Happy To See You<span style='font-size:30px;'>&#127828;</span></div>
     
                     <h6 style="color: red;text-align: center;">
                         <noscript>
@@ -126,6 +129,14 @@
                         </div>
                         <div class="col-xs-4">
                             <button class="btn btn-block bg-indigo waves-effect" type="submit">Login</button>
+                        </div>
+                    </div>
+                    <div class="row m-t-15 m-b--20">
+                        <div class="col-xs-6">
+                            <a href="<?php echo base_url('/Signup') ;?>">Create Account</a>
+                        </div>
+                        <div class="col-xs-6 align-right">
+                            <a href="forgot_password.php">Forgot Password?</a>
                         </div>
                     </div>
                 </form>

@@ -88,7 +88,7 @@ defined('EXIT__AUTO_MAX')      OR define('EXIT__AUTO_MAX', 125); // highest auto
 
 /*PROJECT DETAILS*/
 define('PROJECT_NAME','KALPI STORE');
-define('LOGO','RAILWAY');
+define('LOGO','KALPI STORE');
 define('DISTRICT','DISTRICT');
 define('TEHSIL','TEHSIL');
 define('BLOCK','BLOCK');
@@ -122,3 +122,4 @@ define('SBS_ADMIN','sbs_admin');
 define('SSE_ADMIN','sse_admin');
 //mobile widht css
 define('MOBILE_SCREEN_WIDTH',650);
+define('KALPI_STORE_API_KEY', 'lpniqpdxaigmximkcrqhyjngrghzhftt');
