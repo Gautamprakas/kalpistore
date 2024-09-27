@@ -107,10 +107,10 @@
 
                     <div class="input-group">
                         <span class="input-group-addon">
-                            <i class="material-icons">person</i>
+                            <i class="material-icons">phone</i>
                         </span>
                         <div class="form-line">
-                            <input type="text" class="form-control" name="username" placeholder="Username" required>
+                            <input type="number" class="form-control" name="username" placeholder="Mobile" required>
                         </div>
                     </div>
                     <div class="input-group">

@@ -17,7 +17,7 @@ class Signup extends CI_Controller {
 		if(empty($api_key)){
 			$this->output
 						->set_content_type('application/json')
-						->set_status_header(400)
+						->set_status_header(200)
 						->set_output(json_encode(["status_code"=>400,"message"=>"Missing Api key.."]))
 						->_display();
 			exit;
@@ -26,7 +26,7 @@ class Signup extends CI_Controller {
 		if($api_key!=KALPI_STORE_API_KEY){
 			$this->output
 						->set_content_type('application/json')
-						->set_status_header(401)
+						->set_status_header(200)
 						->set_output(json_encode(["status_code"=>401,"message"=>"Invalid Api key.."]))
 						->_display();
 			exit;
@@ -47,15 +47,17 @@ class Signup extends CI_Controller {
         
         // Run validation
         if ($this->form_validation->run() == FALSE) {
+        	$err = validation_errors('', '');  // This will return errors without HTML <p> tags
             // Validation failed, show errors
             $this->output
 					->set_content_type('application/json')
-					->set_status_header(400)
-					->set_output(json_encode(["status_code"=>400,"message"=>validation_errors()]));
+					->set_status_header(200)
+					->set_output(json_encode(["status_code"=>400,"message"=>strip_tags($err)]));
 			return;
 		}else{
 			$name=$this->db->escape_str($data['name']);
 			$mobile=$this->db->escape_str($data['mobile']);
+			$email=$this->db->escape_str($data['email']);
 			$password=$this->db->escape_str($data['password']);
 			$confirm_password=$this->db->escape_str($data['confirm_password']);
 			// if(strcmp($password,$confirm_password)!==0){
@@ -69,28 +71,29 @@ class Signup extends CI_Controller {
 			if($is_exist_cust){
 				$this->output
 						->set_content_type('application/json')
-						->set_status_header(500)
-						->set_output(json_encode(["status_code"=>500,"message"=>"Mobile Number Already Registered"]));
+						->set_status_header(200)
+						->set_output(json_encode(["status_code"=>400,"message"=>"Mobile Number Already Registered"]));
 				return;
 			}else{
 				$newCustomer=[
 						"name"=>$name,
 						"mobile"=>$mobile,
 						"password"=>$password,
-						"login_type"=>"customer"
+						"login_type"=>"customer",
+						"email"=>$email
 					];
 				$insert_new_entry=$this->db->insert("customers",$newCustomer);
 				if($insert_new_entry){
 	        		$this->output
 						->set_content_type('application/json')
 						->set_status_header(200)
-						->set_output(json_encode(["status_code"=>200,"message"=>"Customer Created successfully.."]));
+						->set_output(json_encode(["status_code"=>200,"message"=>"Success!Please Login With Mobile Number And Password.."]));
 					return;
 
 				}else{
 					$this->output
 								->set_content_type('application/json')
-								->set_status_header(500)
+								->set_status_header(200)
 								->set_output(json_encode(["status_code"=>500,"message"=>$this->db->error()]));
 					return;
 				}

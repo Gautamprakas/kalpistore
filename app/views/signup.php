@@ -95,9 +95,17 @@
                             <i class="material-icons">person</i>
                         </span>
                         <div class="form-line error">
-                            <input type="text" class="form-control" name="namesurname" placeholder="Name Surname" required="" autofocus="" aria-required="true" aria-invalid="true">
+                            <input type="text" id="name" class="form-control" name="name" placeholder="Name Surname" required="true" autofocus="" aria-required="true" aria-invalid="true">
                         </div>
                     <label style="display:none;" id="namesurname-error" class="error" for="namesurname">This field is required.</label></div>
+                    <div class="input-group">
+                        <span class="input-group-addon">
+                            <i class="material-icons">phone</i>
+                        </span>
+                        <div class="form-line error">
+                            <input type="number" id="mobile" class="form-control" name="mobile" minlength="6" placeholder="Mobile" required="" aria-required="true">
+                        </div>
+                    <label style="display:none;" id="password-error" class="error" for="password">This field is required.</label></div>
                     <div class="input-group">
                         <span class="input-group-addon">
                             <i class="material-icons">email</i>
@@ -111,7 +119,7 @@
                             <i class="material-icons">lock</i>
                         </span>
                         <div class="form-line error">
-                            <input type="password" class="form-control" name="password" minlength="6" placeholder="Password" required="" aria-required="true">
+                            <input type="password" id="password" class="form-control" name="password" minlength="6" placeholder="Password" required="" aria-required="true">
                         </div>
                     <label style="display:none;" id="password-error" class="error" for="password">This field is required.</label></div>
                     <div class="input-group">
@@ -119,7 +127,7 @@
                             <i class="material-icons">lock</i>
                         </span>
                         <div class="form-line error">
-                            <input type="password" class="form-control" name="confirm" minlength="6" placeholder="Confirm Password" required="" aria-required="true">
+                            <input type="password" id="confirm_password" class="form-control" name="confirm_password" minlength="6" placeholder="Confirm Password" required="" aria-required="true">
                         </div>
                     <label style="display:none;" id="confirm-error" class="error" for="confirm">This field is required.</label></div>
                     <div class="form-group">
@@ -137,23 +145,147 @@
         </div>
     </div>
 
-    <!-- Jquery Core Js -->
-    <script src="../../plugins/jquery/jquery.min.js"></script>
 
-    <!-- Bootstrap Core Js -->
-    <script src="../../plugins/bootstrap/js/bootstrap.js"></script>
-
-    <!-- Waves Effect Plugin Js -->
-    <script src="../../plugins/node-waves/waves.js"></script>
-
-    <!-- Validation Plugin Js -->
-    <script src="../../plugins/jquery-validation/jquery.validate.js"></script>
-
-    <!-- Custom Js -->
-    <script src="../../js/admin.js"></script>
-    <script src="../../js/pages/examples/sign-up.js"></script>
 
 
 </body>
+<!-- Jquery Core Js -->
+    <script src="<?php echo base_url("assets/layout/plugins/jquery/jquery.min.js"); ?>"></script>
+    <script src="<?php echo base_url("assets/layout/plugins/jquery-validation/jquery.validate.js"); ?>"></script>
 
+    <script src="<?php echo base_url("assets/layout/js/pages/forms/form-validation.js"); ?>"></script>
+    <!-- Bootstrap Core Js -->
+    <script src="<?php echo base_url("assets/layout/plugins/bootstrap/js/bootstrap.js"); ?>"></script>
+  
+        <!-- SweetAlert Plugin Js -->
+    <script src="<?php echo base_url("assets/layout/plugins/sweetalert/sweetalert.min.js"); ?>"></script>
+    <link href="<?php echo base_url("assets/layout/plugins/sweetalert/sweetalert.css"); ?>" rel="stylesheet" />
+
+    <script type="text/javascript">
+        jQuery(document).ready(function(){
+            $("#sign_up").submit(function(){
+                event.preventDefault();
+                if($("#name").val() == ""){
+                    $("#terms").focus();
+                    swal({
+                        title:"Plese enter your name",
+                        text:"",
+                        type:"info",
+                        closeOnConfirm:true
+
+                    });
+                     $("#name").css('background-color', '#b3abab');
+                    return;
+                }
+                if($("#mobile").val() == ""){
+                    $("#terms").focus();
+                    swal({
+                        title:"Plese enter your number",
+                        text:"",
+                        type:"info",
+                        closeOnConfirm:true
+
+                    });
+                     $("#mobile").css('background-color', '#b3abab');
+                    return;
+                }
+                if($("#password").val() == ""){
+                    $("#password").focus();
+                    swal({
+                        title:"Plese enter your password",
+                        text:"",
+                        type:"info",
+                        closeOnConfirm:true
+
+                    });
+                     $("#password").css('background-color', '#b3abab');
+                    return;
+                }
+                if($("#confirm_password").val() == ""){
+                    $("#confirm_password").focus();
+                    swal({
+                        title:"Plese enter your confirm_password",
+                        text:"",
+                        type:"info",
+                        closeOnConfirm:true
+
+                    });
+                     $("#confirm_password").css('background-color', '#b3abab');
+                    return;
+                }
+                if($("#terms").prop('checked') == false){
+                    $("#terms").focus();
+                    swal({
+                        title:"Plese check the check box",
+                        text:"",
+                        type:"info",
+                        closeOnConfirm:true
+
+                    });
+                     $("#terms").css('background-color', '#b3abab');
+                    return;
+                }
+                let formData=new FormData(this);
+                console.log(formData);
+                swal({
+                    title: "Are you sure you want to Submit?",
+                    text: "",
+                    type: "info",
+                    showCancelButton: true,
+                    closeOnConfirm: false,
+                    showLoaderOnConfirm:true
+                    }, function() {
+                        $.ajax({
+                            url: '<?php echo base_url('/api/Signup/createCustomer') ; ?>',
+                            type: 'POST',
+                            data: formData,
+                            processData: false, // Important! To send formData correctly
+                            contentType: false,
+                            headers:{
+                                'X-API-KEY':'<?php echo KALPI_STORE_API_KEY ;?>'
+                            },
+                            success: function(response) {
+                                //var response = jQuery.parseJSON(data);
+                                if (response.status_code == '200') {
+                                    swal({
+                                        title: "Success",
+                                        text: response.message,
+                                        icon: "success"
+                                    },function(){
+                                        var currentUrl= window.location.href;
+                                        if(currentUrl){
+                                            console.log(currentUrl);
+                                            currentUrl=currentUrl.replace('/Signup','/Login');
+                                            console.log(currentUrl);
+                                            location.href = currentUrl;
+                                        }else{ 
+                                            location.reload();
+                                        }
+                                    });
+                                    
+                                } else {
+                                    swal({
+                                        title: "Failed!",
+                                        text: response.message,
+                                        type: "info",
+                                        showCancelButton: true,
+                                        closeOnConfirm: false
+                                    });
+                                }
+                            },
+                            failed:function(response){
+                                //var response = jQuery.parseJSON(data);
+                                swal({
+                                        title: "Failed",
+                                        text: response.message,
+                                        icon: "success"
+                                });
+                            }
+                        });
+                    });
+
+            });
+
+        });
+    </script>
 </html>
