@@ -27,13 +27,18 @@ class Login extends CI_Controller {
 	    $sessionData = $this->LoginModel->validate($uid,$pwd,$user_agent);
 
 	    if( $sessionData["is_login"] ){
-	    	$this->db->where('username',$uid);
-	    	$this->db->update('users',["last_login"=>date('Y-m-d H:i:s')]);
+	    	$this->db->where('mobile',$uid);
+	    	$this->db->update('customers',["last_login"=>date('Y-m-d H:i:s')]);
 	    	
 	    	$this->session->set_userdata($sessionData);
 	    	//redirect('Location');
 	    	//redirect('Admin/dashboard');
-	    	redirect('Railway/dashboard');
+	    	if($sessionData['type']=='shopkeeper'){
+	    		redirect('Shopkeeper/dashboard');
+	    	}else if($sessionData['type']=='customer'){
+	    		redirect('Customer/restaurant');
+	    	}
+	    	
 
 	    	// if( $sessionData['type'] == "admin" ){
 	    	// 	redirect('Railway/dashboard');

@@ -2,27 +2,32 @@
 <?php
 if($this->session->userdata("type")==USER_ADMIN){
     $type=USER_ADMIN;
-}else if($this->session->userdata("type")==USER_SSE){
-    $type=USER_SSE;
-}else if($this->session->userdata("type")==USER_CONTRACTOR){
-    $type=USER_CONTRACTOR;
-}else if($this->session->userdata("type")==SBS_ADMIN){
-    $type=SBS_ADMIN;
-}else if($this->session->userdata("type")==SSE_ADMIN){
-    $type=SSE_ADMIN;
+}else if($this->session->userdata("type")==CUSTOMER){
+    $type=CUSTOMER;
+}else if($this->session->userdata("type")==SHOPKEEPER){
+    $type=SHOPKEEPER;
 }
 ?>
 <div class="menu">
     <ul class="list">
         <li class="header">MAIN NAVIGATION</li>
         
-
+        <?php if($type=='customer' || $type=='admin'){ ?>
+            <li class="<?php if(strcasecmp($menuActive, 'home') == 0) echo 'active'; ?>">
+                <a href="<?php echo base_url('Customer/restaurant'); ?>" onclick="//return false;">
+                    <i class="material-icons">restaurant</i>
+                    <span>Food</span>
+                </a>
+            </li>
+        <?php } ?>   
+        <?php if($type=='admin' || $type=='shopkeeper'){ ?>     
         <li class="<?php if(strcasecmp($menuActive, 'home') == 0) echo 'active'; ?>">
-            <a href="<?php echo base_url('Railway/dashboard'); ?>" onclick="//return false;">
+            <a href="<?php echo base_url('Customer/dashboard'); ?>" onclick="//return false;">
                 <i class="material-icons">dashboard</i>
                 <span>Dashboard</span>
             </a>
         </li>
+        <?php } ?>
         <!-- //Master Menu -->
         <?php if( $type==USER_ADMIN || $type==SSE_ADMIN || $type==SBS_ADMIN ){ ?>
                     <li class="<?php if(strcasecmp($menuActive, 'update_form1') == 0) echo 'active'; ?>">
@@ -167,7 +172,7 @@ if($this->session->userdata("type")==USER_ADMIN){
         <!-- Master Menu Ends here -->
         <?php if($type==USER_CONTRACTOR){?>
             <li class="<?php if(strcasecmp($menuActive, 'update_activity') == 0) echo 'active'; ?>">
-                            <a href="<?php echo base_url('Railway/updateActivities'); ?>">
+                            <a href="<?php echo base_url('Customer/updateActivities'); ?>">
                                 <i class="material-icons">train</i>
                                 <span>Update Activities</span>
                             </a>
@@ -182,13 +187,13 @@ if($this->session->userdata("type")==USER_ADMIN){
                             </a>
                             <ul class="ml-menu">
                                     <li class="<?php if(strcasecmp($subMenuActive, 'pre_billing') == 0) echo 'active'; ?>">
-                                        <a href="<?php echo base_url('Railway/preBilling'); ?>">Pre Billing</a>
+                                        <a href="<?php echo base_url('Customer/preBilling'); ?>">Pre Billing</a>
                                     </li>
                                     <li class="<?php if(strcasecmp($subMenuActive, 'work_order') == 0) echo 'active'; ?>">
-                                        <a href="<?php echo base_url('Railway/workOrderReport'); ?>">Work Order Report</a>
+                                        <a href="<?php echo base_url('Customer/workOrderReport'); ?>">Work Order Report</a>
                                     </li>
                                     <li class="<?php if(strcasecmp($subMenuActive, 'work_rating') == 0) echo 'active'; ?>">
-                                        <a href="<?php echo base_url('Railway/workRatingReport'); ?>">Work Rating</a>
+                                        <a href="<?php echo base_url('Customer/workRatingReport'); ?>">Work Rating</a>
                                     </li>
                                      <!-- <li class="<?php if(strcasecmp($subMenuActive, 'warranty_report') == 0) echo 'active'; ?>">
                                        <a href="<?php echo base_url('view/CreateForm/reportInWarranty/1690450752274'); ?>">Resend For Rating</a>

@@ -116,8 +116,8 @@
             <div class="navbar-header">
                 <a href="javascript:void(0);" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false"></a>
                 <a href="javascript:void(0);" class="bars"></a>
-                <a class="navbar-brand" style="" href="<?php echo base_url("railway/dashboard"); ?>">
-                    <i class="material-icons" style="font-size: 30px;margin-top: 0px">train</i>
+                <a class="navbar-brand" style="" href="<?php echo base_url("railway/dashboard"); ?>">K
+                    <i class="material-icons" style="font-size: 30px;margin-top: 0px">local_grocery_store</i>S
                 </a>
             </div>
             <div style="float:right;color: white; display: none;">

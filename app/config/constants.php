@@ -117,6 +117,8 @@ define('API_KEY_PANCH_LOCATION','lpniqpdxaigmximkcrqhyjngrghzhftt');
 define('USER_ADMIN','admin');
 define('USER_SBSADMIN', 'sbsadmin');
 define('USER_CONTRACTOR','sbs');
+define('CUSTOMER', 'customer');
+define('SHOPKEEPER','shopkeeper');
 define('USER_SSE','sse');
 define('SBS_ADMIN','sbs_admin');
 define('SSE_ADMIN','sse_admin');

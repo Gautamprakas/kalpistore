@@ -51,15 +51,15 @@
              }
 
             .signup-page{
-                background: url("<?php echo base_url("assets/background5.jpg"); ?>");
-                  height: 100%;
+                background: url("<?php echo base_url("assets/background.png"); ?>");
+                  height: 100vh;
                   background-size: 100% 900px;
                 background-size: cover;
                 background-repeat: no-repeat; 
             }
             @media (max-width: 767px) {
     .login-page {
-        background: url("<?php echo base_url('assets/background_mobile.jpg'); ?>") no-repeat center center;
+        background: url("<?php echo base_url('assets/background.png'); ?>") no-repeat center center;
         background-size: cover;
         /* Ensure it covers the full viewport height in mobile view as well */
         height: 100vh; 

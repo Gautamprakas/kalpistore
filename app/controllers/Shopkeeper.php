@@ -1,6 +1,6 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
-class Railway extends MY_Controller{
+class Shopkeeper extends MY_Controller{
 	public function __construct(){
 
 		parent::__construct();
@@ -13,9 +13,6 @@ class Railway extends MY_Controller{
 		$intent["headerCss"]   = "admin/dashboard/dashboardCss";
 		$intent["mainContent"] = "admin/dashboard/dashboard";
 		$intent["footerJs"]    = "admin/dashboard/dashboardJs";
-		// echo "<pre>";
-		// print_r($intent);
-		// die();
 		$this->load->view("admin/include/template",$intent);
 	}
 	public function preBilling(){

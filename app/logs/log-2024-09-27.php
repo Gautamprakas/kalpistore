@@ -70,3 +70,11 @@ ERROR - 2024-09-27 12:33:49 --> 404 Page Not Found: Assets/layout
 ERROR - 2024-09-27 12:34:12 --> 404 Page Not Found: Assets/background_mobile.jpg
 ERROR - 2024-09-27 12:34:12 --> 404 Page Not Found: Assets/layout
 ERROR - 2024-09-27 13:21:18 --> 404 Page Not Found: Assets/layout
+ERROR - 2024-09-27 17:57:25 --> 404 Page Not Found: Assets/background_mobile.jpg
+ERROR - 2024-09-27 17:57:26 --> 404 Page Not Found: Assets/layout
+ERROR - 2024-09-27 17:57:48 --> 404 Page Not Found: Assets/background_mobile.jpg
+ERROR - 2024-09-27 17:57:48 --> 404 Page Not Found: Assets/layout
+ERROR - 2024-09-27 17:58:08 --> Severity: Warning --> Undefined property: stdClass::$location C:\wamp64\www\kalpistore\app\models\LoginModel.php 20
+ERROR - 2024-09-27 17:58:08 --> Severity: Warning --> Undefined property: stdClass::$dept C:\wamp64\www\kalpistore\app\models\LoginModel.php 21
+ERROR - 2024-09-27 17:58:11 --> 404 Page Not Found: Assets/layout
+ERROR - 2024-09-27 17:58:31 --> 404 Page Not Found: Assets/layout
